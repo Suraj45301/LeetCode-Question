@@ -1,26 +1,25 @@
 class Solution {
 public:
     vector<long long> mergeAdjacent(vector<int>& nums) {
-       vector<long long> res;
+       
+       vector<long long >ans ;
+       for(int x:nums)
+       {
+        if(ans.empty() || ans.back() != x)
+        ans.push_back(x) ;
 
-        for (int x : nums) {
-            
-            if (res.empty() || res.back() != x) {
-                res.push_back(x);
-            } else {
-                
-                res.back() += x;
+        else
+        {
+            ans.back() +=x ;
 
-                
-                while (res.size() >= 2 &&
-                       res[res.size() - 1] == res[res.size() - 2]) {
-                    long long val = res.back();
-                    res.pop_back();
-                    res.back() += val;
-                }
+            while(ans.size()>=2 && ans[ans.size()-1]==ans[ans.size()-2])
+            {
+                long long value=ans.back() ;
+                ans.pop_back() ;
+                ans.back() +=value ;
             }
         }
-        return res; 
-       
+       }
+       return ans ;
     }
 };
