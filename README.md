@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suraj45301/LeetCode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Suraj45301/LeetCode-Question/tree/master/1631-path-with-minimum-effort) |
+| [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suraj45301/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
 ## Graph Theory
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suraj45301/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/Suraj45301/LeetCode-Question/tree/master/1192-critical-connections-in-a-network) |
+| [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Suraj45301/LeetCode-Question/tree/master/1192-critical-connections-in-a-network) |
+## Topological Sort
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
