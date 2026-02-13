@@ -2,44 +2,46 @@ class Solution {
 public:
     int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
         
-        vector<vector<int>>adj(n+1) ;
-        vector<int>indeg(n+1,0) ;
-        for(auto &p :relations)
+      vector<vector<int>>adj(n+1) ;
+      vector<int>indeg(n+1,0) ;
+      for(auto edge:relations)
+      {
+        int u=edge[0] ;
+        int v=edge[1] ;
+        adj[u].push_back(v) ;
+        indeg[v]++ ;
+      }
+
+      vector<int>ct(n+1,0) ;
+      queue<int>q ;
+      for(int i=1 ;i<=n ;i++)
+      {
+        if(indeg[i]==0)
         {
-            adj[p[0]].push_back(p[1]);
-            indeg[p[1]]++ ;
+        q.push(i) ;
+        ct[i]=time[i-1] ;
         }
-        vector<int>ct(n+1,0) ;
-        queue<int>q ;
-        for(int i=1 ;i<=n ;i++)
+      }
+
+      while(!q.empty())
+      {
+        int node=q.front() ;
+        q.pop() ;
+
+        for(int j=0 ;j<adj[node].size() ;j++)
         {
-            if(!indeg[i])
-            {
-            q.push(i);
-            ct[i]=time[i-1] ;
-            }
+            int neigh=adj[node][j] ;
+            indeg[neigh]-- ;
+            ct[neigh]=max(ct[neigh],ct[node]+time[neigh-1]) ;
+            if(indeg[neigh]==0)
+            q.push(neigh) ;
         }
-
-        while(!q.empty())
-        {
-            int node=q.front();
-            q.pop();
-
-            for(int j=0 ;j<adj[node].size();j++)
-            {
-                indeg[adj[node][j]]-- ;
-                ct[adj[node][j]]=max(ct[adj[node][j]],ct[node]+time[adj[node][j]-1]) ;
-
-                if(!indeg[adj[node][j]])
-                q.push(adj[node][j]);
-
-
-            }
-        }
-     int ans = 0;
-    for (int i = 1; i <= n; i++)
-    ans = max(ans, ct[i]);
-
-     return ans;
+      }
+      int ans=0 ;
+      for(int i=1 ;i<=n ;i++)
+      {
+        ans=max(ans,ct[i]) ;
+      }
+      return ans ;
     }
 };
