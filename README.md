@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suraj45301/LeetCode-Question/tree/master/0002-add-two-numbers) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Suraj45301/LeetCode-Question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suraj45301/LeetCode-Question/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Suraj45301/LeetCode-Question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Simulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Suraj45301/LeetCode-Question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
