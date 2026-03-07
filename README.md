@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suraj45301/LeetCode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Suraj45301/LeetCode-Question/tree/master/1631-path-with-minimum-effort) |
 | [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suraj45301/LeetCode-Question/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Suraj45301/LeetCode-Question/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suraj45301/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suraj45301/LeetCode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Suraj45301/LeetCode-Question/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suraj45301/LeetCode-Question/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Suraj45301/LeetCode-Question/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suraj45301/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -50,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suraj45301/LeetCode-Question/tree/master/0547-number-of-provinces) |
 | [1631-path-with-minimum-effort](https://github.com/Suraj45301/LeetCode-Question/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
