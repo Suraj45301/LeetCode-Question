@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suraj45301/LeetCode-Question/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Suraj45301/LeetCode-Question/tree/master/0743-network-delay-time) |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Suraj45301/LeetCode-Question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
