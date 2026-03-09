@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj45301/LeetCode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suraj45301/LeetCode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Suraj45301/LeetCode-Question/tree/master/1631-path-with-minimum-effort) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj45301/LeetCode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
