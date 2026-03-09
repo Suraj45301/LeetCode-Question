@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj45301/LeetCode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Suraj45301/LeetCode-Question/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Suraj45301/LeetCode-Question/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Suraj45301/LeetCode-Question/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Suraj45301/LeetCode-Question/tree/master/0136-single-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Suraj45301/LeetCode-Question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
