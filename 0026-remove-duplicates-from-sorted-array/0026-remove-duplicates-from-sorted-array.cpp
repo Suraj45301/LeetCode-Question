@@ -7,8 +7,9 @@ public:
        {
         if(nums[k] != nums[i])
         {
-            nums[k+1]=nums[i];
             k++ ;
+           swap(nums[k],nums[i]);
+            
         }
        } 
        return k+1 ;
