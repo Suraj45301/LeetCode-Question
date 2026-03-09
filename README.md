@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suraj45301/LeetCode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Suraj45301/LeetCode-Question/tree/master/1631-path-with-minimum-effort) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Suraj45301/LeetCode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
 ## Breadth-First Search
 |  |
