@@ -4,16 +4,11 @@ public:
         int count=0 ;
         int n=nums.size() ;
 
-        for(int i=0 ;i<nums.size()-1 ;i++)
+        for(int i=0 ;i<nums.size() ;i++)
         {
-            if(nums[i]>nums[(i+1)])
+            if(nums[i]>nums[(i+1)%n])
             count++ ;
         }
-        if(nums[n-1]>nums[0]) count++ ;
-        if(count<=1)
-        return 1 ;
-
-        else
-        return 0 ;
+        return count<=1 ;
     }
 };
