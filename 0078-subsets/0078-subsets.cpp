@@ -1,7 +1,7 @@
 class Solution {
 public:
     
-    void subseq(vector<int>&nums ,vector<vector<int>>&ans ,int index ,int size,vector<int>temp)
+    void subseq(vector<int>&nums ,vector<vector<int>>&ans ,int index ,int size,vector<int>&temp)
     {
         if(index==size)
         {
@@ -11,6 +11,7 @@ public:
         subseq(nums,ans,index+1 ,size,temp) ;
         temp.push_back(nums[index]) ;
         subseq(nums,ans,index+1,size,temp) ;
+        temp.pop_back() ;
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         
