@@ -1,30 +1,24 @@
 class Solution {
 public:
     
-    void permutation(vector<vector<int>>&ans ,vector<int>&temp ,vector<bool>&visited ,vector<int>&nums)
+    void permutation(vector<vector<int>>&ans ,int index ,vector<int>&nums)
     {
-        if(temp.size()==nums.size())
+        if(index==nums.size())
         {
-            ans.push_back(temp) ;
+            ans.push_back(nums) ;
             return ;
         }
-        for(int i=0 ;i<nums.size() ;i++)
+        for(int i=index ;i<nums.size() ;i++)
         {
-            if(!visited[i]){
-                visited[i]=1 ;
-                temp.push_back(nums[i]) ;
-                permutation(ans,temp ,visited ,nums) ;
-                visited[i]=0 ;
-                temp.pop_back() ;
-            }
+            swap(nums[index],nums[i]) ;
+            permutation(ans ,index+1 ,nums) ;
+            swap(nums[i],nums[index]) ;
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
         int n=nums.size() ;
         vector<vector<int>>ans ;
-        vector<int>temp ;
-        vector<bool>visited(n,0) ;
-        permutation(ans,temp,visited,nums) ;
+       permutation(ans,0,nums) ;
         return ans ;
     }
 };
