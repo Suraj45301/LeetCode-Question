@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Suraj45301/LeetCode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Suraj45301/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Suraj45301/LeetCode-Question/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Suraj45301/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Suraj45301/LeetCode-Question/tree/master/0713-subarray-product-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Suraj45301/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Suraj45301/LeetCode-Question/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
