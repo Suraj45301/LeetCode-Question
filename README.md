@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Suraj45301/LeetCode-Question/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Suraj45301/LeetCode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Suraj45301/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Suraj45301/LeetCode-Question/tree/master/0169-majority-element) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Suraj45301/LeetCode-Question/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Suraj45301/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -180,4 +182,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Suraj45301/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Suraj45301/LeetCode-Question/tree/master/0713-subarray-product-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Suraj45301/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
