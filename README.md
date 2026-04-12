@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suraj45301/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Suraj45301/LeetCode-Question/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/Suraj45301/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Suraj45301/LeetCode-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Suraj45301/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suraj45301/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/Suraj45301/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/Suraj45301/LeetCode-Question/tree/master/0657-robot-return-to-origin) |
 ## Two Pointers
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suraj45301/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Suraj45301/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Suraj45301/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Suraj45301/LeetCode-Question/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Suraj45301/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
