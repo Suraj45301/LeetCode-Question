@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Suraj45301/LeetCode-Question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Suraj45301/LeetCode-Question/tree/master/0485-max-consecutive-ones) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Suraj45301/LeetCode-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suraj45301/LeetCode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Suraj45301/LeetCode-Question/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Suraj45301/LeetCode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Suraj45301/LeetCode-Question/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Suraj45301/LeetCode-Question/tree/master/0169-majority-element) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Suraj45301/LeetCode-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Suraj45301/LeetCode-Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Suraj45301/LeetCode-Question/tree/master/0078-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Suraj45301/LeetCode-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
