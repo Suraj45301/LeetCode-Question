@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suraj45301/LeetCode-Question/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Suraj45301/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Suraj45301/LeetCode-Question/tree/master/0189-rotate-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Suraj45301/LeetCode-Question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Recursion
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Suraj45301/LeetCode-Question/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Suraj45301/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj45301/LeetCode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suraj45301/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suraj45301/LeetCode-Question/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Suraj45301/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Suraj45301/LeetCode-Question/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Suraj45301/LeetCode-Question/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
