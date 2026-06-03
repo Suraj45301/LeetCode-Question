@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Suraj45301/LeetCode-Question/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj45301/LeetCode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suraj45301/LeetCode-Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Suraj45301/LeetCode-Question/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Suraj45301/LeetCode-Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Suraj45301/LeetCode-Question/tree/master/0053-maximum-subarray) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suraj45301/LeetCode-Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Suraj45301/LeetCode-Question/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Suraj45301/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Suraj45301/LeetCode-Question/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Suraj45301/LeetCode-Question/tree/master/0713-subarray-product-less-than-k) |
