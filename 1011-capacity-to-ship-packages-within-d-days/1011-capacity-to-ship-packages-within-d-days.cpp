@@ -2,6 +2,8 @@ class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
         int n=weights.size() ;
+
+        if(days>n) return -1 ;
         int start=0 ,end=0 ;
         int ans=0 ;
 
