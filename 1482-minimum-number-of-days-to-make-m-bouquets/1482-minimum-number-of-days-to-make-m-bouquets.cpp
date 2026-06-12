@@ -28,7 +28,7 @@ public:
         int n=bloomDay.size() ;
 
         
-        if(m>n/k)
+        if(k>n/m)
         return -1 ;
 
       int start=0 ,end=0 ;
