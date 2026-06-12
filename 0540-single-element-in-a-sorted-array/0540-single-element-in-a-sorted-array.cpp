@@ -2,11 +2,24 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
        int ans=0 ;
+       int start=0 ,end=nums.size()-1 ;
 
-       for(int i=0 ;i<nums.size() ;i++)
+       while(start<end)
        {
-        ans ^=nums[i] ;
-       } 
-       return ans ;
+        int mid=start+(end-start)/2 ;
+
+        if(mid%2==1)
+        mid-- ;
+
+        if(nums[mid]==nums[mid+1])
+        {
+            start=mid+2 ;
+        }
+        else{
+           
+            end=mid;
+        }
+       }
+        return nums[start] ;
     }
 };
