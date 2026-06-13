@@ -21,7 +21,7 @@ public:
             }
             else
             {
-                if(nums[mid]<=target && nums[end]>=target)
+                if(nums[mid]<target && nums[end]>=target)
                 {
                     start=mid+1 ;
                 }
