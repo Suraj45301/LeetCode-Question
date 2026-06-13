@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Suraj45301/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/Suraj45301/LeetCode-Question/tree/master/0657-robot-return-to-origin) |
+| [0856-score-of-parentheses](https://github.com/Suraj45301/LeetCode-Question/tree/master/0856-score-of-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Suraj45301/LeetCode-Question/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Suraj45301/LeetCode-Question/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
