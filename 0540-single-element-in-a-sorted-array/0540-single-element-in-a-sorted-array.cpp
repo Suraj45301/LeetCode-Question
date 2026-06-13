@@ -1,11 +1,11 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-       int ans=0 ;
-       int start=0 ,end=nums.size()-1 ;
+      int start=0 ;
+      int end=nums.size()-1 ;
 
-       while(start<end)
-       {
+      while(start<end)
+      {
         int mid=start+(end-start)/2 ;
 
         if(mid%2==1)
@@ -16,10 +16,9 @@ public:
             start=mid+2 ;
         }
         else{
-           
-            end=mid;
+            end=mid ;
         }
-       }
-        return nums[start] ;
+      }
+      return nums[start] ;
     }
 };
