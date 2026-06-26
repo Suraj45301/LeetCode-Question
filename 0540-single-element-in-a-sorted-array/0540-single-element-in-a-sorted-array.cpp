@@ -8,16 +8,15 @@ public:
       {
         int mid=start+(end-start)/2 ;
 
-        if(mid%2==1)
+        if(mid%2 ==1)
         mid-- ;
 
-         if(nums[mid]==nums[mid+1])
+        if(nums[mid]==nums[mid+1])
         start=mid+2 ;
 
         else
-        end=mid-1;
-
-
+        end=mid ;
+        
       }
       return nums[start] ;
     }
