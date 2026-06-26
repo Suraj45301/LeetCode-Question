@@ -15,7 +15,7 @@ public:
         start=mid+2 ;
 
         else
-        end=mid ;
+        end=mid-1;
 
 
       }
