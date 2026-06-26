@@ -9,7 +9,6 @@ public:
         while(start<=end)
         {
             int mid=start+(end-start)/2 ;
-
             if(nums[0]<=nums[mid])
             {
                 start=mid+1 ;
