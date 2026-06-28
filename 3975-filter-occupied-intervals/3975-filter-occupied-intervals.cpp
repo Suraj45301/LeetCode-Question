@@ -2,20 +2,19 @@ class Solution {
 public:
     vector<vector<int>> filterOccupiedIntervals(vector<vector<int>>& occupiedIntervals, int freeStart, int freeEnd) {
        vector<vector<int>>merge ;
-       sort(occupiedIntervals.begin(),occupiedIntervals.end()) ;
+       sort(occupiedIntervals.begin() ,occupiedIntervals.end()) ;
 
-       for(auto &it:occupiedIntervals)
+       for(auto& it:occupiedIntervals)
        {
         if(merge.empty() || merge.back()[1]+1<it[0])
-        merge.push_back({it});
+        merge.push_back(it) ;
 
         else
-        {
-            merge.back()[1]=max(merge.back()[1],it[1]) ;
-        }
+        merge.back()[1]=max(merge.back()[1],it[1]) ;
        }
 
        vector<vector<int>>ans ;
+
        for(auto& it:merge)
        {
         int l=it[0],r=it[1] ;
@@ -31,6 +30,7 @@ public:
             if(r>freeEnd)
             ans.push_back({freeEnd+1,r}) ;
         }
+
        }
        return ans ;
     }
