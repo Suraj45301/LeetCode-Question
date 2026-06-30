@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Suraj45301/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suraj45301/LeetCode-Question/tree/master/0547-number-of-provinces) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Suraj45301/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suraj45301/LeetCode-Question/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Suraj45301/LeetCode-Question/tree/master/0743-network-delay-time) |
@@ -241,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Suraj45301/LeetCode-Question/tree/master/0856-score-of-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Suraj45301/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Suraj45301/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
