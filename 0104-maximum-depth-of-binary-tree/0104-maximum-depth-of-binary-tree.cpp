@@ -12,7 +12,7 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        if (root == nullptr)
+        if (!root)
         return 0;
         queue<TreeNode*>q ;
         q.push(root) ;
