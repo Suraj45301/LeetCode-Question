@@ -1,21 +1,21 @@
 class Solution {
 public:
 
-   
+    int climb(int n ,vector<int>&dp)
+    {
+        if(n<=1)
+        return 1 ;
+
+        if(dp[n] !=-1)
+        return dp[n] ;
+
+        return dp[n]=climb(n-1,dp)+climb(n-2,dp) ;
+    }
    
     int climbStairs(int n) {
 
-       vector<int>dp(n+2) ;
-       dp[n+1]=0 ;
-       dp[n]=1 ;
-
-       for(int i=n-1 ;i>=0 ;i--)
-       {
-        dp[i]=dp[i+1]+dp[i+2] ;
-       }
-
-       return dp[0] ;
-
+       vector<int>dp(n+1,-1) ;
+       return climb(n,dp) ;
 
         
     }
