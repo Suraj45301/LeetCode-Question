@@ -8,11 +8,13 @@ public:
 
     if(dp[n] !=-1) return dp[n] ;
 
-    return dp[n]=fib(n-1)+fib(n-2) ;
+    return dp[n]=fibo(n-1,dp)+fibo(n-2,dp) ;
    }
     int fib(int n) {
     
      vector<int>dp(n+1 ,-1) ;
      return fibo(n,dp) ;
+
+     
     }
 };
