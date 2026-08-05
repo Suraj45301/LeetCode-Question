@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Suraj45301/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Suraj45301/LeetCode-Question/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Suraj45301/LeetCode-Question/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Suraj45301/LeetCode-Question/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suraj45301/LeetCode-Question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Suraj45301/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Suraj45301/LeetCode-Question/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Suraj45301/LeetCode-Question/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Suraj45301/LeetCode-Question/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suraj45301/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj45301/LeetCode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Suraj45301/LeetCode-Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Suraj45301/LeetCode-Question/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Suraj45301/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suraj45301/LeetCode-Question/tree/master/0746-min-cost-climbing-stairs) |
@@ -264,9 +267,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Suraj45301/LeetCode-Question/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Suraj45301/LeetCode-Question/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
