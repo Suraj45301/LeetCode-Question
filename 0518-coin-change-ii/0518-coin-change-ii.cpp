@@ -5,7 +5,7 @@ public:
     {
         
          if(amount==0)
-        return 1 ;
+        return 0 ;
 
           
         if(amount<0 || n<0)
