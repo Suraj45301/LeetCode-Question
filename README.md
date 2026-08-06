@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Suraj45301/LeetCode-Question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Suraj45301/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Suraj45301/LeetCode-Question/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/Suraj45301/LeetCode-Question/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Suraj45301/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Suraj45301/LeetCode-Question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Recursion
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Suraj45301/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Suraj45301/LeetCode-Question/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Suraj45301/LeetCode-Question/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/Suraj45301/LeetCode-Question/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Suraj45301/LeetCode-Question/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Suraj45301/LeetCode-Question/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Suraj45301/LeetCode-Question/tree/master/0743-network-delay-time) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj45301/LeetCode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Suraj45301/LeetCode-Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Suraj45301/LeetCode-Question/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Suraj45301/LeetCode-Question/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Suraj45301/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0518-coin-change-ii) |
@@ -267,11 +270,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Suraj45301/LeetCode-Question/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Suraj45301/LeetCode-Question/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Suraj45301/LeetCode-Question/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Suraj45301/LeetCode-Question/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
