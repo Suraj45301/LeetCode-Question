@@ -6,7 +6,7 @@ public:
         for(int s:stones)
         total +=s ;
 
-        vector<int>dp(total+1/2 ,0) ;
+        vector<bool>dp(total+1/2 ,0) ;
         dp[0]=1 ;
 
         for(int i=0 ;i<n ;i++)
