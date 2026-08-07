@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Suraj45301/LeetCode-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Suraj45301/LeetCode-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1049-last-stone-weight-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suraj45301/LeetCode-Question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Suraj45301/LeetCode-Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Suraj45301/LeetCode-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suraj45301/LeetCode-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suraj45301/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1049-last-stone-weight-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/1049-last-stone-weight-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suraj45301/LeetCode-Question/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
 ## Graph Theory
@@ -275,10 +277,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Suraj45301/LeetCode-Question/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Suraj45301/LeetCode-Question/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Suraj45301/LeetCode-Question/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Suraj45301/LeetCode-Question/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
