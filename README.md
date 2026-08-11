@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Suraj45301/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Suraj45301/LeetCode-Question/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Suraj45301/LeetCode-Question/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Suraj45301/LeetCode-Question/tree/master/1049-last-stone-weight-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suraj45301/LeetCode-Question/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/Suraj45301/LeetCode-Question/tree/master/2050-parallel-courses-iii) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Suraj45301/LeetCode-Question/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Graph Theory
 |  |
 | ------- |
